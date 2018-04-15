@@ -1,6 +1,4 @@
 # coding=utf-8
-# 增加一行
-# 增加两行
 from flask import Flask, url_for
 
 app = Flask(__name__)
